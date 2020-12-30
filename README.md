@@ -30,7 +30,7 @@ chmod +x init.sh
 ## Server
 修改config文件中的:`AUTH`,`IP`
 ```bash
-git clone https://github.com/nghuyong/ADSLProxy.git
+git clone https://github.com/successmiven/ADSLProxy.git
 pip install -r requirements.txt
 nohup python server.py &
 ```
