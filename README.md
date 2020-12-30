@@ -19,7 +19,7 @@
 cd /root/
 yum install -y epel-release
 yum install -y git
-git clone https://github.com/nghuyong/ADSLProxy.git
+git clone https://github.com/successmiven/ADSLProxy.git
 cd ADSLProxy
 chmod +x init.sh
 ./init.sh
